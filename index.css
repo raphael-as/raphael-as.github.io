@@ -171,6 +171,7 @@ svg:hover {
     padding:2vh 0px !important;
 }
 .btn_one {
+    decoration: none;
     color:#000000;
     padding:10px 40px;
     border-radius:50px;
@@ -192,6 +193,7 @@ svg:hover {
     font-weight:normal;
 }
 .btn_two {
+    decoration: none;
     color:#000;
     padding:10px 40px;
     border-radius:50px;
