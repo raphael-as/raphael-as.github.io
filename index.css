@@ -7,6 +7,9 @@ body,html {
     background:#ffffff;
     scroll-behavior: smooth;
 }
+a {
+    decoration: none;
+}
 #loading {
     width: 100vw;
     height: 100vh;
