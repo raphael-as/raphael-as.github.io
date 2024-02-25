@@ -248,7 +248,7 @@ svg:hover {
     background:#fff;
     cursor:pointer;
 }
-@media (min-width: 576px) {
+@media (min-width: 700px) {
     #header {
         width:94%;
         padding:15% 3%;
