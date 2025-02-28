@@ -8,7 +8,7 @@ body,html {
     scroll-behavior: smooth;
 }
 a {
-    decoration: none;
+    decoration: none !important;
 }
 #loading {
     width: 100vw;
