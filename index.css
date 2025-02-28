@@ -209,9 +209,10 @@ svg:hover {
     margin:30px 10px;
 }
 .btn_two:hover {
-    background:#1861ff;
+    background:#4164ff;
     cursor:pointer;
     color:#000000;
+    border:2px solid #4164ff;
 }
 .btn_three {
     color:#000000;
